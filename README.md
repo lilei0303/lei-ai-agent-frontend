@@ -8,6 +8,9 @@
 - **知识库管理**：查看和管理 AI 使用的知识
 - **设置与配置**：自定义 AI 智能体的行为
 - **用户认证**：安全的登录系统
+## 界面展示
+![image](https://github.com/user-attachments/assets/9caeb1bc-67cc-4307-a07b-6cabd9aa3119)
+![image](https://github.com/user-attachments/assets/423b89f0-b17b-4f5d-b32c-b75778a82f8f)
 
 ## 技术栈
 
