@@ -1,6 +1,6 @@
 # Lei AI Agent 前端
 
-这是 Lei AI Agent 的前端项目，专为与 lei-ai-agent-backend 配合使用而设计。它为 AI 助手的功能提供了现代化的 Web 界面。
+这是 Lei AI Agent 的前端项目，专为与 lei-ai-agent-backend 配合使用而设计，完全由cursor生成，提供聊天对话功能。它为 AI 助手的功能提供了现代化的 Web 界面。
 
 ## 核心功能
 
